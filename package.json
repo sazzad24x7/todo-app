@@ -2,8 +2,9 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://sazzad24x7.github.io/todo-app",
+  "homepage": "https://sazzad24x7.github.io/todo-app",
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.0"

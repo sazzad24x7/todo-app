@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://sazzad24x7.github.io/todo-app",
+  "homepage" : "https://sazzad24x7.github.io/todo-app",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
